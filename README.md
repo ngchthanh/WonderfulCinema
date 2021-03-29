@@ -1,6 +1,9 @@
 #  Wonderful Cinema Demo 🎥 
+<img src='https://imgur.com/XkmY4ax.gif' title='Video Walkthrough' width='200' alt='Video Walkthrough' />
+
 ## Author 
 Thanh Nguyen Chi
+
 ## Features
 #### Home Scene
 - [x] Trending Movie List
