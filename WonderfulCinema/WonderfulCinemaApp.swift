@@ -11,7 +11,7 @@ import SwiftUI
 struct WonderfulCinemaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeScene(viewModel: HomeViewModel())
         }
     }
 }
